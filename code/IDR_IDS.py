@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""23404388_Project.ipynb
-
-Original file is located at
-    https://colab.research.google.com/drive/1e7VhOWagfOzNCeGQpQZw84uFlO2qEq6u
-"""
 
 train_path = '/content/UNSW_NB15_training-set.parquet'
 test_path = '/content/UNSW_NB15_testing-set.parquet'
